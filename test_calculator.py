@@ -1,4 +1,4 @@
-from calculator import addition, soustraction, division
+from calculator import addition, soustraction
 
 def test_addition():
     assert addition(1, 2) == 3
